@@ -1,0 +1,38 @@
+section {
+    text-align: center;
+}
+
+header {
+    border-bottom: 1px solid black;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+button {
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+    width: 150px;
+    color: white;
+    background-color: green;
+    margin-top: 30px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
+
+textarea {
+    display: flex;
+    resize: none;
+    text-align: center;
+    margin: auto;
+}
